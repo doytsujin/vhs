@@ -14,6 +14,7 @@ require (
 require (
 	github.com/alecthomas/chroma v0.10.0 // indirect
 	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be // indirect
+	github.com/aymanbagabas/go-osc52/v2 v2.0.1 // indirect
 	github.com/aymerick/douceur v0.2.0 // indirect
 	github.com/caarlos0/sshmarshal v0.1.0 // indirect
 	github.com/charmbracelet/keygen v0.3.0 // indirect
@@ -36,17 +37,16 @@ require (
 )
 
 require (
-	github.com/aymanbagabas/go-osc52 v1.2.1 // indirect
 	github.com/caarlos0/env/v6 v6.10.1
 	github.com/dlclark/regexp2 v1.7.0 // indirect
 	github.com/hashicorp/go-version v1.6.0
-	github.com/mattn/go-isatty v0.0.16
+	github.com/mattn/go-isatty v0.0.17
 	github.com/muesli/mango-cobra v1.2.0
 	github.com/muesli/roff v0.1.0
-	github.com/muesli/termenv v0.13.0
+	github.com/muesli/termenv v0.15.0
 	github.com/rivo/uniseg v0.4.2 // indirect
 	github.com/spf13/cobra v1.6.1
 	github.com/ysmood/gson v0.7.2 // indirect
 	golang.org/x/net v0.0.0-20221014081412-f15817d10f9b // indirect
-	golang.org/x/sys v0.0.0-20221013171732-95e765b1cc43 // indirect
+	golang.org/x/sys v0.6.0
 )
